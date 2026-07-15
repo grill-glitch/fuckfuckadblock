@@ -1,7 +1,7 @@
 ! Title: Fuck Fuckadblock
 ! Description: Filters for blocking pop-ups and anti-adblock bypass
 ! Author: Bogachenko Vyacheslav
-! Expires: 3 days
+! Expires: 1 day
 ! Homepage: https://github.com/bogachenko/fuckfuckadblock
 ! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
 ! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
