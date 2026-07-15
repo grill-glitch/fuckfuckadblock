@@ -284,3 +284,4 @@ easyshort.xyz##+js(noeval, DOMContentLoaded, showModal)
 ! simpmusic.org
 simpmusic.org##.sm\:\[--slide-exit\:0px\].sm\:\[--slide-enter\:0px\].sm\:\[--scale-exit\:103\%\].sm\:\[--scale-enter\:100\%\].\[--slide-exit\:80px\].\[--slide-enter\:0px\].\[--scale-exit\:100\%\].\[--scale-enter\:100\%\].sm\:items-center.items-end.h-\[--visual-viewport-height\].justify-center.overflow-x-auto.z-50.inset-0.fixed.w-screen.flex
 simpmusic.org##.bg-black\/80.inset-0.fixed.h-screen.w-screen.backdrop-saturate-150.backdrop-blur-md.z-50
+simpmusic.org##html,body:style(overflow: auto !important)
